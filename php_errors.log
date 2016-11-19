@@ -1,0 +1,224 @@
+[04-Nov-2016 19:16:54 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:16:54 UTC] PHP Stack trace:
+[04-Nov-2016 19:16:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:16:54 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:16:54 UTC] PHP Stack trace:
+[04-Nov-2016 19:16:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:17:17 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:17:17 UTC] PHP Stack trace:
+[04-Nov-2016 19:17:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:17:17 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:17:17 UTC] PHP Stack trace:
+[04-Nov-2016 19:17:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:18:40 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:18:40 UTC] PHP Stack trace:
+[04-Nov-2016 19:18:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:18:40 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:18:40 UTC] PHP Stack trace:
+[04-Nov-2016 19:18:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:18:55 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:18:55 UTC] PHP Stack trace:
+[04-Nov-2016 19:18:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:18:55 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:18:55 UTC] PHP Stack trace:
+[04-Nov-2016 19:18:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:18:58 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:18:58 UTC] PHP Stack trace:
+[04-Nov-2016 19:18:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:18:58 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:18:58 UTC] PHP Stack trace:
+[04-Nov-2016 19:18:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:19:04 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:19:04 UTC] PHP Stack trace:
+[04-Nov-2016 19:19:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:19:04 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:19:04 UTC] PHP Stack trace:
+[04-Nov-2016 19:19:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:19:12 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:19:12 UTC] PHP Stack trace:
+[04-Nov-2016 19:19:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:19:12 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:19:12 UTC] PHP Stack trace:
+[04-Nov-2016 19:19:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:20:30 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:20:30 UTC] PHP Stack trace:
+[04-Nov-2016 19:20:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[04-Nov-2016 19:20:30 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/logout.php on line 2
+[04-Nov-2016 19:20:30 UTC] PHP Stack trace:
+[04-Nov-2016 19:20:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/logout.php:0
+[05-Nov-2016 15:25:47 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/register.php on line 3
+[05-Nov-2016 15:25:47 UTC] PHP Stack trace:
+[05-Nov-2016 15:25:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/register.php:0
+[05-Nov-2016 15:25:47 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/register.php on line 3
+[05-Nov-2016 15:25:47 UTC] PHP Stack trace:
+[05-Nov-2016 15:25:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/register.php:0
+[05-Nov-2016 15:25:47 UTC] PHP Fatal error:  Call to undefined function loggedin() in /home/ubuntu/workspace/nellija/incl/register.php on line 5
+[05-Nov-2016 15:25:47 UTC] PHP Stack trace:
+[05-Nov-2016 15:25:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/register.php:0
+[05-Nov-2016 15:26:51 UTC] PHP Warning:  include(../navigation.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/register.php on line 11
+[05-Nov-2016 15:26:51 UTC] PHP Stack trace:
+[05-Nov-2016 15:26:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/register.php:0
+[05-Nov-2016 15:26:51 UTC] PHP Warning:  include(): Failed opening '../navigation.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/register.php on line 11
+[05-Nov-2016 15:26:51 UTC] PHP Stack trace:
+[05-Nov-2016 15:26:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/register.php:0
+[09-Nov-2016 18:07:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/nellija/incl/sort.php on line 141
+[09-Nov-2016 18:07:24 UTC] PHP Stack trace:
+[09-Nov-2016 18:07:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:07:24 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/nellija/incl/sort.php:141
+[09-Nov-2016 18:07:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/nellija/incl/sort.php on line 143
+[09-Nov-2016 18:07:24 UTC] PHP Stack trace:
+[09-Nov-2016 18:07:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:07:24 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/nellija/incl/sort.php:143
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/sort.php on line 21
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/sort.php on line 21
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(incl/navigation.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/sort.php on line 22
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(): Failed opening 'incl/navigation.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/sort.php on line 22
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/sort.php on line 23
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/sort.php on line 23
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(incl/pagination.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/sort.php on line 24
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(): Failed opening 'incl/pagination.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/sort.php on line 24
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(incl/footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/sort.php on line 29
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:30 UTC] PHP Warning:  include(): Failed opening 'incl/footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/sort.php on line 29
+[09-Nov-2016 18:10:30 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:52 UTC] PHP Warning:  include(incl/footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/sort.php on line 29
+[09-Nov-2016 18:10:52 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:52 UTC] PHP Warning:  include(): Failed opening 'incl/footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/sort.php on line 29
+[09-Nov-2016 18:10:52 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:59 UTC] PHP Warning:  include(/footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/sort.php on line 29
+[09-Nov-2016 18:10:59 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:10:59 UTC] PHP Warning:  include(): Failed opening '/footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/sort.php on line 29
+[09-Nov-2016 18:10:59 UTC] PHP Stack trace:
+[09-Nov-2016 18:10:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:11:32 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/nellija/incl/pagination.php on line 6
+[09-Nov-2016 18:11:32 UTC] PHP Stack trace:
+[09-Nov-2016 18:11:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:11:32 UTC] PHP   2. include() /home/ubuntu/workspace/nellija/incl/sort.php:23
+[09-Nov-2016 18:11:32 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/nellija/incl/pagination.php:6
+[09-Nov-2016 18:11:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/nellija/incl/pagination.php on line 9
+[09-Nov-2016 18:11:32 UTC] PHP Stack trace:
+[09-Nov-2016 18:11:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/sort.php:0
+[09-Nov-2016 18:11:32 UTC] PHP   2. include() /home/ubuntu/workspace/nellija/incl/sort.php:23
+[09-Nov-2016 18:11:32 UTC] PHP   3. mysqli_num_rows() /home/ubuntu/workspace/nellija/incl/pagination.php:9
+[09-Nov-2016 18:39:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/nellija/incl/core.php on line 23
+[09-Nov-2016 18:39:05 UTC] PHP Stack trace:
+[09-Nov-2016 18:39:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/core.php:0
+[09-Nov-2016 18:39:05 UTC] PHP   2. isAdmin() /home/ubuntu/workspace/nellija/incl/core.php:41
+[09-Nov-2016 18:39:05 UTC] PHP   3. mysqli_query() /home/ubuntu/workspace/nellija/incl/core.php:23
+[09-Nov-2016 18:39:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/nellija/incl/core.php on line 24
+[09-Nov-2016 18:39:05 UTC] PHP Stack trace:
+[09-Nov-2016 18:39:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/core.php:0
+[09-Nov-2016 18:39:05 UTC] PHP   2. isAdmin() /home/ubuntu/workspace/nellija/incl/core.php:41
+[09-Nov-2016 18:39:05 UTC] PHP   3. mysqli_num_rows() /home/ubuntu/workspace/nellija/incl/core.php:24
+[10-Nov-2016 16:39:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 8
+[10-Nov-2016 16:39:44 UTC] PHP Stack trace:
+[10-Nov-2016 16:39:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:39:44 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/nellija/incl/fav_page.php:8
+[10-Nov-2016 16:39:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 10
+[10-Nov-2016 16:39:44 UTC] PHP Stack trace:
+[10-Nov-2016 16:39:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:39:44 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/nellija/incl/fav_page.php:10
+[10-Nov-2016 16:39:44 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 17
+[10-Nov-2016 16:39:44 UTC] PHP Stack trace:
+[10-Nov-2016 16:39:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:39:44 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/nellija/incl/fav_page.php:17
+[10-Nov-2016 16:39:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 8
+[10-Nov-2016 16:39:50 UTC] PHP Stack trace:
+[10-Nov-2016 16:39:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:39:50 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/nellija/incl/fav_page.php:8
+[10-Nov-2016 16:39:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 10
+[10-Nov-2016 16:39:50 UTC] PHP Stack trace:
+[10-Nov-2016 16:39:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:39:50 UTC] PHP   2. mysqli_fetch_assoc() /home/ubuntu/workspace/nellija/incl/fav_page.php:10
+[10-Nov-2016 16:39:50 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 17
+[10-Nov-2016 16:39:50 UTC] PHP Stack trace:
+[10-Nov-2016 16:39:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:39:50 UTC] PHP   2. mysqli_query() /home/ubuntu/workspace/nellija/incl/fav_page.php:17
+[10-Nov-2016 16:42:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 7
+[10-Nov-2016 16:42:43 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 2
+[10-Nov-2016 16:42:43 UTC] PHP Stack trace:
+[10-Nov-2016 16:42:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:42:43 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 2
+[10-Nov-2016 16:42:43 UTC] PHP Stack trace:
+[10-Nov-2016 16:42:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:42:43 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 3
+[10-Nov-2016 16:42:43 UTC] PHP Stack trace:
+[10-Nov-2016 16:42:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:42:43 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 3
+[10-Nov-2016 16:42:43 UTC] PHP Stack trace:
+[10-Nov-2016 16:42:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:42:53 UTC] PHP Warning:  include(/connection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 3
+[10-Nov-2016 16:42:53 UTC] PHP Stack trace:
+[10-Nov-2016 16:42:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:42:53 UTC] PHP Warning:  include(): Failed opening '/connection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 3
+[10-Nov-2016 16:42:53 UTC] PHP Stack trace:
+[10-Nov-2016 16:42:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:42:58 UTC] PHP Warning:  include(./connection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 3
+[10-Nov-2016 16:42:58 UTC] PHP Stack trace:
+[10-Nov-2016 16:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 16:42:58 UTC] PHP Warning:  include(): Failed opening './connection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/fav_page.php on line 3
+[10-Nov-2016 16:42:58 UTC] PHP Stack trace:
+[10-Nov-2016 16:42:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/fav_page.php:0
+[10-Nov-2016 17:15:35 UTC] PHP Warning:  include(incl/core.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/error.php on line 21
+[10-Nov-2016 17:15:35 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:35 UTC] PHP Warning:  include(): Failed opening 'incl/core.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/error.php on line 21
+[10-Nov-2016 17:15:35 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:35 UTC] PHP Warning:  include(incl/navigation.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/error.php on line 22
+[10-Nov-2016 17:15:35 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:35 UTC] PHP Warning:  include(): Failed opening 'incl/navigation.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/error.php on line 22
+[10-Nov-2016 17:15:35 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:35 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/error.php on line 23
+[10-Nov-2016 17:15:35 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:35 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/error.php on line 23
+[10-Nov-2016 17:15:35 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:35 UTC] PHP Warning:  include(incl/footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/error.php on line 33
+[10-Nov-2016 17:15:35 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:35 UTC] PHP Warning:  include(): Failed opening 'incl/footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/error.php on line 33
+[10-Nov-2016 17:15:35 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:48 UTC] PHP Warning:  include(../navigation.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/error.php on line 22
+[10-Nov-2016 17:15:48 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:48 UTC] PHP Warning:  include(): Failed opening '../navigation.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/error.php on line 22
+[10-Nov-2016 17:15:48 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:48 UTC] PHP Warning:  include(incl/footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/error.php on line 33
+[10-Nov-2016 17:15:48 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:48 UTC] PHP Warning:  include(): Failed opening 'incl/footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/error.php on line 33
+[10-Nov-2016 17:15:48 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:59 UTC] PHP Warning:  include(incl/footer.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/nellija/incl/error.php on line 33
+[10-Nov-2016 17:15:59 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0
+[10-Nov-2016 17:15:59 UTC] PHP Warning:  include(): Failed opening 'incl/footer.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/nellija/incl/error.php on line 33
+[10-Nov-2016 17:15:59 UTC] PHP Stack trace:
+[10-Nov-2016 17:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/nellija/incl/error.php:0

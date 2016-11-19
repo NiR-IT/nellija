@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Required meta tags always come first -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="css/nellija.css">
+  <link href="css/signin.css" rel="stylesheet">
+
+</head>
+<body>
+    
+    <?php
+    include 'connection.php';
+    include 'incl/core.php';
+    include 'incl/navigation.php';
+    
+    //redirect user if he has already logged in
+    if(loggedin()){
+      $link = 'index.php';
+      header('Location: '.$link);
+    //overwise provide with login form
+    } else {
+      include 'incl/loginform.php';
+    }
+    
+    ?>
+    
+    
+    <footer style="margin-top:30px;" class="navbar-fixed-bottom">
+    <hr/>
+    <div id="container">
+        <div class="row">
+            <div class="col-sm-9">
+            </div>
+            
+            <div class="col-sm-3">
+                <p class="text-muted">Copyright &copy; 2016 Nikita Ribakovs</p>
+            </div>
+        </div>
+    </div>
+  </footer>
+
+
+<!-- jQuery first, then Tether, then Bootstrap JS. -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" integrity="sha384-3ceskX3iaEnIogmQchP8opvBy3Mi7Ce34nWjpBIwVTHfGYWQS9jwHDVRnpKKHJg7" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js" integrity="sha384-XTs3FgkjiBgo8qjEjBk0tGmf3wPrWtA6coPfQDfFEY8AnYJwjalXCiosYRBIBZX8" crossorigin="anonymous"></script>
+  <script src="js/bootstrap.min.js"></script>
+</body>
+</html>
+
